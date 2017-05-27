@@ -1,0 +1,1 @@
+# lottie-android_aspect
